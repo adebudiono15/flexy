@@ -1,0 +1,11 @@
+/* ===========
+*  Color Theme *
+============== */
+
+body.light-theme {
+    background-color: #f7f7f7;
+}
+.light-theme .main-menu-sidebar {
+    background-color: #FFFFFF;
+    color: #1B1D4E;
+}

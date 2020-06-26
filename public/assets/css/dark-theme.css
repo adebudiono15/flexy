@@ -1,0 +1,42 @@
+/* ===========
+*  Color Theme *
+============== */
+
+body.dark-theme {
+    background-color: #32345d;
+}
+.dark-theme .logo {
+    color: #BFC3FF;
+}
+.dark-theme .main-menu-sidebar {
+    background-color: #1B1D4E;
+    color: #FFFFFF;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item > a {
+    color: #f7f7f7;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item > a:hover {
+    color: #ffffff;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item.active > a {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item > ul > li > a {
+    color: #b6b7c6;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item > ul > li:hover > a {
+    color: #ffffff;
+}
+.dark-theme .main-menu-sidebar .nav-menu .nav-item > ul > li.active > a {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.dark-theme .card,
+.dark-theme .navbar {
+    background-color: #1B1D4E;
+    color: #ffffff;
+}
+.dark-theme .navbar-info-icon {
+    color: #ffffff;
+}
